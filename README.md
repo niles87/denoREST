@@ -6,6 +6,6 @@ Just a simple REST API testing deno with typescript. Routes were tested with Pos
 
 ### Technologies Used
 
-Deno
-Typescript
-Postman
+- Deno
+- Typescript
+- Postman
